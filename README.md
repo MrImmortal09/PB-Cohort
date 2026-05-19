@@ -52,22 +52,21 @@ Cohort mode is **self-study**. Participants are expected to find committed weekl
 After the cohort, participants are encouraged to stick around the discord channel and keep following up on their
 possible paths. Make friends, share ideas, start group side projects.
 
-## Cohort Structure and Timeline
+### Cohort Structure and Timeline
 
-The cohort program spans 8 weeks and follows the schedule outlined below:
+| Week | PB Chapters | Content |
+| --- | --- | --- |
+| Week 0 (22 May) | Introduction | - |
+| Week 1 (23 May - 29 May) | Chapters 1 and 2 | Finite Fields and Elliptic Curves |
+| Week 2 (30 May - 5 Jun) | Chapters 3 | Elliptic Curve Cryptography |
+| Week 3 (6 Jun - 12 Jun) | Chapters 4 and 5 | Serializations and Transactions |
+| Week 4 (13 Jun - 19 Jun) | Chapters 6 and 7 | Scripts and Transaction Validation |
+| Week 5 (20 Jun - 26 Jun) | Chapters 8 and 9 | P2SH and Blocks |
+| Week 6 (27 Jun - 3 Jul) | Chapters 10 and 11 | Networking and SPV |
+| Week 7 (4 Jul - 10 Jul) | Chapters 12 and 13 | Bloom filter Segwit |
+| Week 8 (11 Jul - 17 Jul) | Conclusion and Next Step | - |
 
-| Week                  | PB Chapters           | Content                                      |
-|-----------------------|-----------------------|----------------------------------------------|
-| Week 0 (8 Nov)        | Introduction          | -                                            |
-| Week 1 (9 Nov - 15 Nov) | Chapters 1 and 2     | Finite Fields and Elliptic Curves           |
-| Week 2 (16 Nov - 22 Nov) | Chapters 3           | Elliptic Curve Cryptography                 |
-| Week 3 (23 Nov - 29 Nov) | Chapters 4 and 5     | Serializations and Transactions             |
-| Week 4 (30 Nov - 6 Dec)  | Chapters 6 and 7     | Scripts and Transaction Validation          |
-| Week 5 (7 Dec - 13 Dec)  | Chapters 8 and 9     | P2SH and Blocks                             |
-| Week 6 (14 Dec - 20 Dec) | Chapters 10 and 11   | Networking and SPV                         |
-| Week 7 (21 Dec - 27 Dec) | Chapters 12 and 13   | Bloom filter Segwit                        |
-| Week 8 (28 Dec - 3 Jan)  | Conclusion and Next Step | -                                         |
-
+---
 
 The structure of the cohort program is designed for self-study. Each week, participants will be assigned to a group to receive questions related to the scheduled chapters.
 Participants are expected to study the material, prepare answers to their questions, and actively participate in the weekly group discussion sessions, where they will explain
@@ -80,7 +79,7 @@ After the group session, participants will be given programming exercises based 
 within the designated time-frame.
 
 ## Dates & Times for Group Sessions
-The cohort begins on the 27th October 2023. Note the important cohort program timings:
+The cohort begins on the 22nd May 2026. Note the important cohort program timings:
 
     Weekly Group Session: Fridays, 8:00 PM to 9:30 PM (IST).
     Weekly Exercise Submission Due: Before Sunday, 12:00 AM (Midnight, IST).
