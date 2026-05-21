@@ -61,9 +61,9 @@ possible paths. Make friends, share ideas, start group side projects.
 | Week 2 (30 May - 5 Jun) | Chapters 3 | Elliptic Curve Cryptography |
 | Week 3 (6 Jun - 12 Jun) | Chapters 4 and 5 | Serializations and Transactions |
 | Week 4 (13 Jun - 19 Jun) | Chapters 6 and 7 | Scripts and Transaction Validation |
-| Week 5 (20 Jun - 26 Jun) | Chapters 8 and 9 | P2SH and Blocks |
-| Week 6 (27 Jun - 3 Jul) | Chapters 10 and 11 | Networking and SPV |
-| Week 7 (4 Jul - 10 Jul) | Chapters 12 and 13 | Bloom filter Segwit |
+| Week 5 (20 Jun - 26 Jun) | Chapters 8 and 13 | P2SH and Segwit|
+| Week 6 (27 Jun - 3 Jul) | Chapters 9 and 10 | Blocks and Networking |
+| Week 7 (4 Jul - 10 Jul) | Chapters 11 and 12 | SPV and Bloom Filters |
 | Week 8 (11 Jul - 17 Jul) | Conclusion and Next Step | - |
 
 ---
